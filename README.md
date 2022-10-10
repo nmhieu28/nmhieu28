@@ -7,6 +7,6 @@
 
 ![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=nmhieu28&show_icons=true&theme=dracula)
 
-## Courses
+## Blog
 
 My blog [hieunm.net](https://hieunm.net)

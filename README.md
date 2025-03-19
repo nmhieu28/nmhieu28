@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey 👋, I'm Hieu Minh Nguyen from Vietnam 🇻🇳</h1>
+  <h1>Hey 👋, I'm Hieu (Chris Nguyen) from Vietnam 🇻🇳</h1>
 </div>
 
 I'm a software developer with over five years of experience in software development. I specialize in building enterprise applications using .NET, Golang, NodeJS, and AWS Cloud, with a strong focus on microservices architecture and high-performance backend systems. I have a deep passion for coding and always strive to write clean, efficient, and scalable code.

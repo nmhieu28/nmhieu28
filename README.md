@@ -1,4 +1,6 @@
-### Hey 👋, I'm Hieu Minh Nguyen from 🇻🇳
+<div align="center">
+  <h1>Hey 👋, I'm Hieu Minh Nguyen from Vietnam 🇻🇳</h1>
+</div>
 
 I'm a software developer with over five years of experience in software development. I specialize in building enterprise applications using .NET, Golang, NodeJS, and AWS Cloud, with a strong focus on microservices architecture and high-performance backend systems. I have a deep passion for coding and always strive to write clean, efficient, and scalable code.
 
@@ -6,11 +8,11 @@ Beyond backend development, I also build modern and interactive user interfaces 
 
 Let's connect and build something great together! 🚀
 
-[![](https://img.shields.io/badge/-@minhhieuit28-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/minhhieuit28)
-[![](https://img.shields.io/badge/-@nmhieu28-%23181717?style=flat-square&logo=github)](https://github.com/nmhieu28)
-[![](https://img.shields.io/badge/-Nguyen%20Minh%20Hieu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhhieuit28/)](https://www.linkedin.com/in/minhhieuit28/)
-
-👯 I'm working for [Creative Force](https://www.creativeforce.io/) company.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/minhhieuit28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhhieuit28" height="30" width="40" /></a>
+<a href="https://twitter.com/minhhieuit28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhhieuit28" height="30" width="40" /></a>
+</p>
 
 ## ⚡ Favorite languages and tools
 
@@ -25,7 +27,3 @@ Let's connect and build something great together! 🚀
 
 ## :octocat: Blog
 My blog [hieunm.net](https://hieunm.net)
-
-## :octocat: GitHub contributions
-
-<img src="https://github-readme-stats.vercel.app/api?username=hieunm28&show_icons=true&count_private=true&theme=algolia" alt="hieunm28" />

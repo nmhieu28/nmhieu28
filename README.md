@@ -2,11 +2,11 @@
   <h1>Hey 👋, I'm Hieu (Chris Nguyen) from Vietnam 🇻🇳</h1>
 </div>
 
-I'm a software developer with over five years of experience in software development. I specialize in building enterprise applications using .NET, Golang, NodeJS, and AWS Cloud, with a strong focus on microservices architecture and high-performance backend systems. I have a deep passion for coding and always strive to write clean, efficient, and scalable code.
+I'm a seasoned software developer with years of experience building enterprise applications. My expertise spans .NET, Golang, and Node.js, with a strong focus on microservices architecture, high-performance backend systems, and AWS Cloud. I’m passionate about writing clean, efficient, and scalable code that drives real impact.
 
-Beyond backend development, I also build modern and interactive user interfaces using Next.js and React.js to create seamless user experiences. I'm eager to explore new technologies and continuously enhance my skills.
+Beyond backend development, I craft modern, interactive user interfaces with Next.js and React.js, ensuring seamless user experiences. I'm always eager to explore new technologies and push the boundaries of what's possible.
 
-Let's connect and build something great together! 🚀
+Let’s connect and create something extraordinary! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +27,8 @@ Let's connect and build something great together! 🚀
 
 ## :octocat: Blog
 My blog [hieunm.net](https://hieunm.net)
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmhieu28&show_icons=true&locale=en&layout=compact&theme=dark" alt="nmhieu28" />
+  &nbsp;&nbsp;
+</p>
